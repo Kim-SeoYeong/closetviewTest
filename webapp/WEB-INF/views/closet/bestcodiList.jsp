@@ -177,8 +177,51 @@
 					<h4 class="modal-title">태그 검색</h4>
 				</div>
 				<div class="modal-body">
-					<p>One fine body&hellip;</p>
-				</div>
+					<div class="tagCate">날씨별</div>
+					<div class="tag_box">
+						<span class="tag">눈</span>
+						<span class="tag">비</span>
+						<span class="tag">눈오는날</span>
+						<span class="tag">비오는날</span>
+						<span class="tag">눈올때</span>
+						<span class="tag">비올때</span>
+						<span class="tag">더운날</span>
+						<span class="tag">추운날</span>
+						<span class="tag">비오는날룩</span>
+						<span class="tag">눈오는날룩</span>
+						<span class="tag">비올때</span>
+						<span class="tag">안개낀날</span>
+						<span class="tag">더운날룩</span>
+						<span class="tag">봄</span>
+						<span class="tag">여름</span>
+						<span class="tag">가울</span>
+						<span class="tag">겨울</span>
+					</div>
+					<br>
+					
+					<div class="tagCate">색깔별</div>
+					<div class="tag_box">
+						<span class="tag">빨강</span>
+						<span class="tag">주황</span>
+						<span class="tag">노랑</span>
+						<span class="tag">초록</span>
+						<span class="tag">파랑</span>
+						<span class="tag">네이비</span>
+						<span class="tag">보라</span>
+						<span class="tag">빨간색</span>
+						<span class="tag">노란색</span>
+						<span class="tag">초록색</span>
+						<span class="tag">파란색</span>
+						<span class="tag">남색</span>
+						<span class="tag">보라색</span>
+						<span class="tag">하얀색</span>
+						<span class="tag">검정색</span>
+						<span class="tag">밝은색</span>
+						<span class="tag">어두우색</span>
+						</div>
+					</div>
+				</div>	
+				<!-- /modal-body -->
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					<button type="button" class="btn btn-primary">Save changes</button>
