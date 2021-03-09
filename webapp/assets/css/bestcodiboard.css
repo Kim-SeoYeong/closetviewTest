@@ -11,7 +11,7 @@
 	border-bottom:1px solid #ccc;
 }
 
-/******코디구함*******/
+/******베스트드레서*******/
 
 /*검색, 태그검색 버튼*/
 .top_box {
@@ -105,9 +105,31 @@
 	font-size:13px;
 	position: relative;
 }
-
+/*
 #codi_box .codi_line li .codi_row .row01 {
 	margin-bottom:10px;
+}
+*/
+#codi_box .codi_line li .codi_row .row01 div{
+	margin-bottom:10px;
+	float:left;
+}
+
+#codi_box .codi_line li .codi_row .row01 .nickName{
+	width: 60px;
+	margin-left: 16px;
+	text-align: left;
+}
+
+#codi_box .codi_line li .codi_row .row01 .btnFollow{
+	width: 60px;
+	margin-left: 10px;
+	text-align: left;
+}
+
+#codi_box .codi_line li .codi_row .row01 .btnWishlist{
+	margin-left: 48px;
+	text-align: right;
 }
 
 #codi_box .codi_line li .codi_row .row02_back {
@@ -152,9 +174,9 @@
 
 
 /*태그검색 모달*/
+
 #tagSearchModal .modal-body .tag_box {
 	width:100%;
-	height:20%;
 	border:1px solid #ccc;
 }
 
@@ -162,7 +184,6 @@
 	line-height: 25px;
 	margin: 5px 0px 5px 4px;
 	padding: 2px 2px 2px 2px;
-	/*text-align: center;*/
 	font-size:15px;
 	font-weight: bold;
 }
@@ -177,4 +198,24 @@
 	font-size:8px;
 	font-weight: bold;
 	word-break: keep-all;
+}
+
+
+/*위시리스트 추가 모달*/
+
+#wishlistModal .modal-body img {
+	margin-left: 30%;
+}
+
+#wishlistModal .modal-body label {
+	border:1px solid #ccc;
+	font-size:15px;
+	padding:2px 6px 2px 6px;
+	border-radius: 5px;
+	background-color: #ccc;
+	margin: 20px 0px 10px 0px;
+}
+
+#wishlistModal .modal-body .commentForm {
+	width:100%;
 }
