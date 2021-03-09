@@ -62,12 +62,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
 						</div>
+						<!-- //codi_row -->
 					</li>
 					<li>
 						<div class="codi_row">
@@ -76,12 +83,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>			
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
 					</li>
 					<li>
 						<div class="codi_row">
@@ -90,12 +104,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>		
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
 					</li>
 					<li>
 						<div class="codi_row">
@@ -104,12 +125,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>		
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
 					</li>
 					<li>
 						<div class="codi_row">
@@ -118,12 +146,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>			
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
 					</li>
 					<li>
 						<div class="codi_row">
@@ -132,12 +167,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>	
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
 					</li>
 					<li>
 						<div class="codi_row">
@@ -146,12 +188,19 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>			
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->	
 					</li>
 					<li>
 						<div class="codi_row">
@@ -160,41 +209,61 @@
 								<div class="btnFollow">팔로우</div> 
 								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
 							</div>
+							<!-- //row01 -->
 							<div class="row02_back">
 								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
 							</div>
+							<!-- //row02-back -->
 							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>				
-					</li>
-					<li>
-						<div class="codi_row">
-							<div class="row01">
-								<div class="nickName">별명 </div>
-								<div class="btnFollow">팔로우</div> 
-								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
-							</div>
-							<div class="row02_back">
-								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
-							</div>
-							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
-						</div>		
-					</li>
-					<li>
-						<div class="codi_row">
-							<div class="row01">
-								<div class="nickName">별명 </div>
-								<div class="btnFollow">팔로우</div> 
-								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
-							</div>
-							<div class="row02_back">
-								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
-							</div>
-							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
-							<div class="row03">좋아요버튼 답글갯수</div>						
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
 						</div>
 						<!-- //codi_row -->		
+					</li>
+					<li>
+						<div class="codi_row">
+							<div class="row01">
+								<div class="nickName">별명 </div>
+								<div class="btnFollow">팔로우</div> 
+								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
+							</div>
+							<!-- //row01 -->
+							<div class="row02_back">
+								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
+							</div>
+							<!-- //row02-back -->
+							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
+					</li>
+					<li>
+						<div class="codi_row">
+							<div class="row01">
+								<div class="nickName">별명 </div>
+								<div class="btnFollow">팔로우</div> 
+								<div class="btnWishlist"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span></div>
+							</div>
+							<!-- //row01 -->
+							<div class="row02_back">
+								<p>제목이 표시되는 부분입니다. 몇줄까지 표시되는지 상의해야합니다.</p>
+							</div>
+							<!-- //row02-back -->
+							<img src="${pageContext.request.contextPath}/assets/images/testimg.jpg">
+							<div class="row03">
+								<div class="likes"><span class="glyphicon glyphicon-heart" aria-hidden="true">30개</span></div>
+								<div class="comments"><span class="glyphicon glyphicon-comment" aria-hidden="true">15개</span></div>
+							</div>	
+							<!-- //row03 -->					
+						</div>
+						<!-- //codi_row -->
 					</li>
 				</ul>
 				

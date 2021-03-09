@@ -168,10 +168,21 @@
 }
 
 
-#codi_box .codi_line li .codi_row .row03 {
+#codi_box .codi_line li .codi_row .row03 div{
 	margin-top:10px;
+	float: left;
 }
 
+#codi_box .codi_line li .codi_row .row03 .likes{
+	width: 100px;
+	margin-left: 10px;
+	text-align : center;
+}
+
+#codi_box .codi_line li .codi_row .row03 .comments{
+	width: 100px;
+	text-align : center;
+}
 
 /*태그검색 모달*/
 
