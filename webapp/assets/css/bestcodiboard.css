@@ -54,28 +54,19 @@
 	height:68px;
 }
 
-#tagList_box .tag_box .tag {
-	line-height: 35px;
+#tagList_box .tag_box ul li {
+	float:left;
 	margin: 5px 4px 5px 4px;
-	padding: 2px 7px 2px 7px;
+	padding: 3px 6px;
 	background-color:#FFAD5D; 
 	border-radius: 10px;
 	text-align: center;
 	font-size:15px;
 	font-weight: bold;
-	word-break: keep-all;
 }
 
-#tagList_box .tag_box .non_tag {
-	line-height: 35px;
-	margin: 5px 4px 5px 4px;
-	padding: 2px 7px 2px 7px;
-	background-color:#C06A16; 
-	border-radius: 10px;
-	text-align: center;
-	font-size:15px;
-	font-weight: bold;
-	word-break: keep-all;
+#tagList_box .tag_box ul .non_tag {
+	background-color:#ccc; 
 }
 
 /*codi_box*/
@@ -188,6 +179,7 @@
 
 #tagSearchModal .modal-body .tag_box {
 	width:100%;
+	height:150px;
 	border:1px solid #ccc;
 }
 
@@ -199,16 +191,15 @@
 	font-weight: bold;
 }
 
-#tagSearchModal .modal-body .tag_box .tag{
-	line-height: 25px;
-	margin: 5px 4px 5px 4px;
-	padding: 2px 7px 2px 7px;
+#tagSearchModal .modal-body .tag_box ul li{
+	float:left;
+	margin: 2px 4px 2px 4px;
+	padding: 3px 6px;
 	background-color:#FFAD5D; 
 	border-radius: 10px;
 	text-align: center;
-	font-size:8px;
+	font-size:10px;
 	font-weight: bold;
-	word-break: keep-all;
 }
 
 

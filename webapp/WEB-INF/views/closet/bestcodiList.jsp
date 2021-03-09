@@ -32,22 +32,24 @@
 					
 			<form id="tagList_box">
 				<div class="tag_box">
-					<span class="tag">눈오는날</span>
-					<span class="tag">비오오는날</span>
-					<span class="tag">결혼식룩</span>
-					<span class="tag">행사</span>
-					<span class="tag">데일리룩</span>
-					<span class="tag">중요한날</span>
-					<span class="tag">흐린날씨</span>
-					<span class="non_tag">비활성화태그</span>
-					<span class="tag">활성화태그</span>
-					<span class="tag">태그</span>
-					<span class="tag">데일리룩</span>
-					<span class="tag">중요한날</span>
-					<span class="tag">흐린날씨</span>
-					<span class="non_tag">비활성화태그</span>
-					<span class="tag">활성화태그</span>
-					<span class="tag">태그</span>
+					<ul>
+						<li class="tag">눈오는날</li>
+						<li class="tag">비오는날</li>
+						<li class="tag">결혼식룩</li>
+						<li class="tag">행사</li>
+						<li class="tag">데일리룩</li>
+						<li class="tag">중요한날</li>
+						<li class="tag">흐린날씨</li>
+						<li class="non_tag">비활성화태그</li>
+						<li class="tag">활성화태그</li>
+						<li class="tag">태그</li>
+						<li class="tag">데일리룩</li>
+						<li class="tag">중요한날</li>
+						<li class="tag">흐린날씨</li>
+						<li class="non_tag">비활성화태그</li>
+						<li class="tag">활성화태그</li>
+						<li class="tag">태그</li>
+					</ul>
 				</div>
 			</form>
 			<!-- //tagList_box -->		
@@ -313,199 +315,159 @@
 				</div>
 				<div class="modal-body"><!-- style="overflow-y:scroll; height:500px" -->
 					<div class="tagCate">날씨/계절별</div>
-					<div class="tag_box">
-						<span class="tag">눈</span>
-						<span class="tag">비</span>
-						<span class="tag">눈오는날</span>
-						<span class="tag">비오는날</span>
-						<span class="tag">눈올때</span>
-						<span class="tag">비올때</span>
-						<span class="tag">더운날</span>
-						<span class="tag">추운날</span>
-						<span class="tag">비오는날룩</span>
-						<span class="tag">눈오는날룩</span>
-						<span class="tag">비올때</span>
-						<span class="tag">안개낀날</span>
-						<span class="tag">더운날룩</span>
-						<span class="tag">봄</span>
-						<span class="tag">여름</span>
-						<span class="tag">가울</span>
-						<span class="tag">겨울</span>
-						<span class="tag">미세먼지</span>
-						<span class="tag">안개</span>
-						<span class="tag">간절기</span>
-						<span class="tag">환절기</span>
-						<span class="tag">눈</span>
-						<span class="tag">비</span>
-						<span class="tag">눈오는날</span>
-						<span class="tag">비오는날</span>
-						<span class="tag">눈올때</span>
-						<span class="tag">비올때</span>
-						<span class="tag">더운날</span>
-						<span class="tag">추운날</span>
-						<span class="tag">비오는날룩</span>
-						<span class="tag">눈오는날룩</span>
-						<span class="tag">비올때</span>
-						<span class="tag">안개낀날</span>
-						<span class="tag">더운날룩</span>
-						<span class="tag">봄</span>
-						<span class="tag">여름</span>
-						<span class="tag">가울</span>
-						<span class="tag">겨울</span>
-						<span class="tag">미세먼지</span>
-						<span class="tag">안개</span>
-						<span class="tag">간절기</span>
-						<span class="tag">환절기</span>
+					<div class="tag_box">					
+						<ul>
+							<li class="tag">눈</li>
+							<li class="tag">비</li>
+							<li class="tag">눈오는날</li>
+							<li class="tag">비오는날</li>
+							<li class="tag">눈올때</li>
+							<li class="tag">비올때</li>
+							<li class="tag">더운날</li>
+							<li class="tag">추운날</li>
+							<li class="tag">비오는날룩</li>
+							<li class="tag">눈오는날룩</li>
+							<li class="tag">비올때</li>
+							<li class="tag">안개낀날</li>
+							<li class="tag">더운날룩</li>
+							<li class="tag">봄</li>
+							<li class="tag">여름</li>
+							<li class="tag">가울</li>
+							<li class="tag">겨울</li>
+							<li class="tag">미세먼지</li>
+							<li class="tag">안개</li>
+							<li class="tag">간절기</li>
+							<li class="tag">환절기</li>
+							<li class="tag">눈</li>
+							<li class="tag">비</li>
+							<li class="tag">눈오는날</li>
+							<li class="tag">비오는날</li>
+							<li class="tag">눈올때</li>
+							<li class="tag">비올때</li>
+							<li class="tag">더운날</li>
+							<li class="tag">추운날</li>
+							<li class="tag">비오는날룩</li>
+							<li class="tag">눈오는날룩</li>
+							<li class="tag">비올때</li>
+							<li class="tag">안개낀날</li>
+							<li class="tag">더운날룩</li>
+							<li class="tag">봄</li>
+							<li class="tag">여름</li>
+							<li class="tag">가울</li>
+							<li class="tag">겨울</li>
+							<li class="tag">미세먼지</li>
+							<li class="tag">안개</li>
+							<li class="tag">간절기</li>
+							<li class="tag">환절기</li>
+						</ul>
 					</div>
 					
 					<br>
 					
 					<div class="tagCate">색상별</div>
 					<div class="tag_box">
-						<span class="tag">빨강</span>
-						<span class="tag">주황</span>
-						<span class="tag">노랑</span>
-						<span class="tag">초록</span>
-						<span class="tag">파랑</span>
-						<span class="tag">네이비</span>
-						<span class="tag">보라</span>
-						<span class="tag">화이트</span>
-						<span class="tag">검정</span>
-						<span class="tag">핑크</span>
-						<span class="tag">빨간색</span>
-						<span class="tag">노란색</span>
-						<span class="tag">초록색</span>
-						<span class="tag">파란색</span>
-						<span class="tag">남색</span>
-						<span class="tag">보라색</span>
-						<span class="tag">하얀색</span>
-						<span class="tag">검정색</span>
-						<span class="tag">연두색</span>
-						<span class="tag">하늘색</span>
-						<span class="tag">분홍색</span>
-						<span class="tag">밝은색</span>
-						<span class="tag">어두우색</span>
-						<span class="tag">빨강</span>
-						<span class="tag">주황</span>
-						<span class="tag">노랑</span>
-						<span class="tag">초록</span>
-						<span class="tag">파랑</span>
-						<span class="tag">네이비</span>
-						<span class="tag">보라</span>
-						<span class="tag">화이트</span>
-						<span class="tag">검정</span>
-						<span class="tag">핑크</span>
-						<span class="tag">빨간색</span>
-						<span class="tag">노란색</span>
-						<span class="tag">초록색</span>
-						<span class="tag">파란색</span>
-						<span class="tag">남색</span>
-						<span class="tag">보라색</span>
-						<span class="tag">하얀색</span>
-						<span class="tag">검정색</span>
-						<span class="tag">연두색</span>
-						<span class="tag">하늘색</span>
-						<span class="tag">분홍색</span>
-						<span class="tag">밝은색</span>
-						<span class="tag">어두우색</span>
-						<span class="tag">빨강</span>
-						<span class="tag">주황</span>
-						<span class="tag">노랑</span>
-						<span class="tag">초록</span>
-						<span class="tag">파랑</span>
-						<span class="tag">네이비</span>
-						<span class="tag">보라</span>
-						<span class="tag">화이트</span>
-						<span class="tag">검정</span>
-						<span class="tag">핑크</span>
-						<span class="tag">빨간색</span>
-						<span class="tag">노란색</span>
-						<span class="tag">초록색</span>
-						<span class="tag">파란색</span>
-						<span class="tag">남색</span>
-						<span class="tag">보라색</span>
-						<span class="tag">하얀색</span>
-						<span class="tag">검정색</span>
-						<span class="tag">연두색</span>
-						<span class="tag">하늘색</span>
-						<span class="tag">분홍색</span>
-						<span class="tag">밝은색</span>
-						<span class="tag">어두우색</span>
+						<ul>
+							<li class="tag">빨강</li>
+							<li class="tag">주황</li>
+							<li class="tag">노랑</li>
+							<li class="tag">초록</li>
+							<li class="tag">파랑</li>
+							<li class="tag">네이비</li>
+							<li class="tag">보라</li>
+							<li class="tag">화이트</li>
+							<li class="tag">검정</li>
+							<li class="tag">핑크</li>
+							<li class="tag">빨간색</li>
+							<li class="tag">노란색</li>
+							<li class="tag">초록색</li>
+							<li class="tag">파란색</li>
+							<li class="tag">남색</li>
+							<li class="tag">보라색</li>
+							<li class="tag">하얀색</li>
+							<li class="tag">검정색</li>
+							<li class="tag">연두색</li>
+							<li class="tag">하늘색</li>
+							<li class="tag">분홍색</li>
+							<li class="tag">밝은색</li>
+							<li class="tag">어두우색</li>
+							<li class="tag">빨강</li>
+							<li class="tag">주황</li>
+							<li class="tag">노랑</li>
+							<li class="tag">초록</li>
+							<li class="tag">파랑</li>
+							<li class="tag">네이비</li>
+							<li class="tag">보라</li>
+							<li class="tag">화이트</li>
+							<li class="tag">검정</li>
+							<li class="tag">핑크</li>
+							<li class="tag">빨간색</li>
+							<li class="tag">노란색</li>
+							<li class="tag">초록색</li>
+							<li class="tag">파란색</li>
+							<li class="tag">남색</li>
+							<li class="tag">보라색</li>
+							<li class="tag">하얀색</li>
+							<li class="tag">검정색</li>
+							<li class="tag">연두색</li>
+							<li class="tag">하늘색</li>
+							<li class="tag">분홍색</li>
+							<li class="tag">밝은색</li>
+							<li class="tag">어두우색</li>
+						</ul>
 					</div>
 					
 					<br>
 					
 					<div class="tagCate">테마별</div>
 					<div class="tag_box">
-						<span class="tag">결혼식</span>
-						<span class="tag">레스토랑</span>
-						<span class="tag">학교</span>
-						<span class="tag">집들이</span>
-						<span class="tag">친구집</span>
-						<span class="tag">장례식</span>
-						<span class="tag">상견례</span>
-						<span class="tag">학원</span>
-						<span class="tag">교회</span>
-						<span class="tag">마트</span>
-						<span class="tag">데이트</span>
-						<span class="tag">외식</span>
-						<span class="tag">소개팅</span>
-						<span class="tag">면접</span>
-						<span class="tag">일상</span>
-						<span class="tag">여행</span>
-						<span class="tag">돌잔치</span>
-						<span class="tag">놀이공원</span>
-						<span class="tag">서점</span>
-						<span class="tag">도서관</span>
-						<span class="tag">한강</span>
-						<span class="tag">소풍</span>
-						<span class="tag">피크닉</span>
-						<span class="tag">결혼식</span>
-						<span class="tag">레스토랑</span>
-						<span class="tag">학교</span>
-						<span class="tag">집들이</span>
-						<span class="tag">친구집</span>
-						<span class="tag">장례식</span>
-						<span class="tag">상견례</span>
-						<span class="tag">학원</span>
-						<span class="tag">교회</span>
-						<span class="tag">마트</span>
-						<span class="tag">데이트</span>
-						<span class="tag">외식</span>
-						<span class="tag">소개팅</span>
-						<span class="tag">면접</span>
-						<span class="tag">일상</span>
-						<span class="tag">여행</span>
-						<span class="tag">돌잔치</span>
-						<span class="tag">놀이공원</span>
-						<span class="tag">서점</span>
-						<span class="tag">도서관</span>
-						<span class="tag">한강</span>
-						<span class="tag">소풍</span>
-						<span class="tag">피크닉</span>
-						<span class="tag">결혼식</span>
-						<span class="tag">레스토랑</span>
-						<span class="tag">학교</span>
-						<span class="tag">집들이</span>
-						<span class="tag">친구집</span>
-						<span class="tag">장례식</span>
-						<span class="tag">상견례</span>
-						<span class="tag">학원</span>
-						<span class="tag">교회</span>
-						<span class="tag">마트</span>
-						<span class="tag">데이트</span>
-						<span class="tag">외식</span>
-						<span class="tag">소개팅</span>
-						<span class="tag">면접</span>
-						<span class="tag">일상</span>
-						<span class="tag">여행</span>
-						<span class="tag">돌잔치</span>
-						<span class="tag">놀이공원</span>
-						<span class="tag">서점</span>
-						<span class="tag">도서관</span>
-						<span class="tag">한강</span>
-						<span class="tag">소풍</span>
-						<span class="tag">피크닉</span>
+						<ul>
+							<li class="tag">결혼식</li>
+							<li class="tag">레스토랑</li>
+							<li class="tag">학교</li>
+							<li class="tag">집들이</li>
+							<li class="tag">친구집</li>
+							<li class="tag">장례식</li>
+							<li class="tag">상견례</li>
+							<li class="tag">학원</li>
+							<li class="tag">교회</li>
+							<li class="tag">마트</li>
+							<li class="tag">데이트</li>
+							<li class="tag">외식</li>
+							<li class="tag">소개팅</li>
+							<li class="tag">면접</li>
+							<li class="tag">일상</li>
+							<li class="tag">여행</li>
+							<li class="tag">돌잔치</li>
+							<li class="tag">놀이공원</li>
+							<li class="tag">서점</li>
+							<li class="tag">도서관</li>
+							<li class="tag">한강</li>
+							<li class="tag">소풍</li>
+							<li class="tag">피크닉</li>
+							<li class="tag">결혼식</li>
+							<li class="tag">레스토랑</li>
+							<li class="tag">학교</li>
+							<li class="tag">집들이</li>
+							<li class="tag">친구집</li>
+							<li class="tag">장례식</li>
+							<li class="tag">상견례</li>
+							<li class="tag">학원</li>
+							<li class="tag">교회</li>
+							<li class="tag">마트</li>
+							<li class="tag">데이트</li>
+							<li class="tag">외식</li>
+							<li class="tag">소개팅</li>
+							<li class="tag">면접</li>
+							<li class="tag">일상</li>
+							<li class="tag">여행</li>
+							<li class="tag">돌잔치</li>
+							<li class="tag">놀이공원</li>
+							<li class="tag">서점</li>
+							<li class="tag">도서관</li>
+							<li class="tag">한강</li>
+							<li class="tag">소풍</li>
+							<li class="tag">피크닉</li>
+						</ul>
 					</div>
 				</div>	
 				<!-- /modal-body -->
@@ -553,6 +515,10 @@
 </body>
 	
 	<script type="text/javascript">
+	
+		//태그단어들에 # 붙이기
+		$(".tag_box ul li").prepend("#");
+	
 		//태그검색 버튼 눌렀을때 모달창 띄우기
 		$("#btnTagSearch").on("click", function(){
 			console.log("태그검색 모달창 호출");
@@ -566,6 +532,7 @@
 			
 			$("#wishlistModal").modal();
 		});
+		
 
 	</script>
 
